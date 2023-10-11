@@ -1,5 +1,5 @@
 # Projects
-This repository contains a few of my (more complex) c++/Java projects as well as C# scripts from my Virtual Reality project!
+This repository contains a few of my (more complex) c++/Java projects from coursework. Also has a few C# scripts from my Virtual Reality project!
 # C++ Projects - Completed during Spring 2023 semester in Data Structures at OU
 
   Project2.cpp : Read a file that contains a table (2D array) of "records" (strings) including various operations (characters) to perform on certain rows/columns.         Examples include: sort a row or column in alphabetical order, search the table for specific record, etc.
@@ -15,5 +15,5 @@ Blocks.java : Read information from a .csv file to store data into Block and its
 
 Main.java : Implemented a GUI that allows users to interact with various models of blocks and their properties. Used JavaFX and JFreeChart.
 # C# Scripts - Completed during Summer 2023 for VR Project
-I am attaching a few C# scripts that I used in my VR project. I utilized Unity software and attached these scripts to game objects for custom behaviors. Documentation is not provided as they are very short and simple scripts!
+I am attaching a few C# scripts that I used in my VR project. I utilized Unity software and attached these scripts to game objects for custom behaviors. Documentation is not provided as they are pretty short and simple scripts!
 

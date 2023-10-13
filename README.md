@@ -14,6 +14,3 @@ Please note, for simplicity and organization purposes I have excluded child clas
 Blocks.java : Read information from a .csv file to store data into Block and its child classes. Perform various operations on blocks and block chains. Implement function that determines unique blocks based on its properties.
 
 Main.java : Implemented a GUI that allows users to interact with various models of blocks and their properties. Used JavaFX and JFreeChart.
-# C# Scripts - Completed during Summer 2023 for VR Project
-I am attaching a few C# scripts that I used in my VR project. I utilized Unity software and attached these scripts to game objects for custom behaviors. Documentation is not provided as they are pretty short and simple scripts!
-
